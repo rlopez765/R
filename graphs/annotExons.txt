@@ -1,0 +1,62 @@
+ A0577101_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0577101_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0579701_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0579701_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0581101_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0581101_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0575501_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0575501_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0578401_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0578401_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0574201_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0574201_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0569301_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0569301_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0569501_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0569501_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0563601_1    | 1     |  27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0563601_1    | 1     |  27023376 | ARID1A | V161A     | ARID1A  | V161A
+ A0563601_1    | 10    |  89685313 | PTEN   | L70I      | PTEN    | L70I
+ A0563601_1    | 7     | 140624426 | BRAF   | E26D      | BRAF    | E26D
+
+ A0564901_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0564901_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0569101_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0569101_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0562201_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0562201_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0560901_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0560901_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0559101_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0559101_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0558901_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0558901_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0558701_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0558701_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0558601_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0558601_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0550401_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0550401_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0558401_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0558401_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
+ A0548301_1    | 1     | 27023089 | ARID1A | P65P      | ARID1A  | P65P
+ A0548301_1    | 10    | 89685313 | PTEN   | L70I      | PTEN    | L70I
+
