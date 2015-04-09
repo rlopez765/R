@@ -2,7 +2,7 @@
 ghdbConnect <- function(drv) {
     require(RPostgreSQL)
     dbConnect(drv, host='ghpsjcUB03', dbname="ghdb",
-                user='admin', password='N7Tks0xPS')
+                user='admin', password='PASSWORD')
 }
 
 require(RPostgreSQL)
